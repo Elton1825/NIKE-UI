@@ -15,7 +15,7 @@ NIKE UI is a frontend UI project inspired by the Nike brand, focusing on modern 
 🔗 https://github.com/Elton1825/NIKE-UI
 
 ## ✨ Features
-- Clean and visually rich landing page UI
+- Clean and visually rich  pages UI
 - Fully responsive layout for all screen sizes
 - Reusable React components
 - Modern design system using Tailwind CSS
